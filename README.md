@@ -24,10 +24,10 @@
   
 ## 👾 What I did
 
-&emsp;&emsp;‣ **[Issue Tracker](github.com/janeljs/issue-tracker)** (21.06 - 21.06)<br>
-&emsp;&emsp;&emsp;&emsp;: 협업을 위해 이슈를 발행하고 효율적으로 관리할 수 있도록 도와주는 서비스 
+&emsp;&emsp;‣ **[Issue Tracker](https://github.com/janeljs/issue-tracker)** (21.06 - 21.06)<br>
+&emsp;&emsp;&emsp;&emsp;: 협업을 위해 이슈를 발행하고 효율적으로 관리할 수 있도록 도와주는 서비스 (GitHub Issue Clone project)
 
-&emsp;&emsp;‣ **[Airbnb](github.com/eNoLJ/airbnb)** (21.05 - 21.05)<br>
+&emsp;&emsp;‣ **[Airbnb](https://github.com/eNoLJ/airbnb)** (21.05 - 21.05)<br>
 &emsp;&emsp;&emsp;&emsp;: 숙소 예약을 도와주는 서비스 (Airbnb Clone project) 
  
  
