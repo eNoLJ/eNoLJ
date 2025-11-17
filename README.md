@@ -3,7 +3,7 @@
   
       항상 불편함을 마주하며 성장하는 백엔드 개발자 정인호입니다.    
   
-      I love 👨‍💻 coding and 🚴‍♂️ riding a bike.
+      I love 👨‍💻 coding and 🚴‍♂️ riding a bicycle.
   
   
   </div> 
